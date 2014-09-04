@@ -1,0 +1,19 @@
+body { background: #FDF6E4; }
+code { display: block; }
+code pre, textarea { font-family: "Monaco", "Courier", monospace; }
+
+#editor,#console {
+	width: 45%;
+	min-height: 50%;
+	margin: 3em 2% 0 2%;
+	float: right;
+	border: 1px solid #2E8CCF;
+}
+
+textarea {
+	background-color: transparent;
+	height: 50%;
+	width: 100%;
+	border: none;
+}
+
